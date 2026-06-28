@@ -1,4 +1,4 @@
-/* SUMMARY :)
+/* SUMMARY
     1. GLOBAL
     2. LAYOUT
     3. SECTION
@@ -593,8 +593,8 @@
     display: block;
   }
 
-  .post-meta-list [class^="post-meta-"] {
-    border-bottom : 0.2rem solid var(--color-light-grey);
+  .post-meta-list [class="post-meta-"] {
+border-bottom : 0.2rem solid var(--color-light-grey);
     margin-bottom: 1rem;
     padding-bottom: 1rem;
   }
